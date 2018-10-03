@@ -1,0 +1,12 @@
+C:\Users\Soledad\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\Soledad\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\Soledad\Desktop\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.juego5x5.resources
+C:\Users\Soledad\Desktop\sudoku\sudoku\obj\Debug\sudoku.juego9x9.resources
